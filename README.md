@@ -40,9 +40,8 @@ This project is <b>frontend only</b> and does not include backend authentication
 
 <h2>👨‍💻 Author:</h2>
 <ul>
-  <li><i>[Your Name Here]</i></li>
+  <li><i>TOOBA SHAFI</i></li>
 </ul>
-
 
 <img width="1920" height="1080" alt="Screenshot (570)" src="https://github.com/user-attachments/assets/f5b0c455-eee5-4a17-a600-11a437698564" /><br><br>
 
